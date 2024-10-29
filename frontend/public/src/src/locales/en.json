@@ -1,0 +1,138 @@
+{
+  "SideBar": {
+    "Main": "Main",
+    "Explore": "Explore",
+    "Library": "Library",
+    "Playlists": "Playlists",
+    "FavTracks": "Favorite Tracks",
+    "noAuth": {
+      "login-text": "Log in to create playlists, share tracks and releases, leave comments, get recommendations, and much more.",
+      "buttonLogin": "Login"
+    }
+  },
+  "footer": {
+    "About": "About Us",
+    "Conditions": "Terms of Use",
+    "Blog": "Blog",
+    "Feedback": "Contact Us",
+    "bottomText": {
+      "text1": "VibeStream 2010-2024. All rights reserved",
+      "text2": "Privacy Policy"
+    }
+  },
+  "header": {
+    "title": "Main",
+    "buttonRegistration": "Sign Up",
+    "buttonLogin": "Login",
+    "search": "Search"
+  },
+  "PreviewPage": {
+    "hero": {
+      "title": "Catch the Vibe, Start Streaming",
+      "description": "A free music streaming platform where you can listen, save, and discover your favorite artists and songs.",
+      "button": "Sign up for free"
+    },
+    "recommendations": {
+      "title": "Recommendations",
+      "description": "Recommendations tailored just for you. Choose your favorite artists and get great suggestions."
+    },
+    "playlists": {
+      "title": "Playlists",
+      "description": "Create your own playlist and save favorite tracks to enjoy your music.",
+      "button": "Create Playlist"
+    },
+    "genres": {
+      "title": "Genres & Categories",
+      "description": "Discover everything VibeStream has to offer! Millions of tracks, available on all platforms.",
+      "items": {
+        "hiphop": "Hip-Hop",
+        "country": "Country",
+        "disco": "Disco",
+        "rock": "Rock",
+        "reggaeton": "Reggaeton",
+        "indie": "Indie",
+        "classical": "Classical",
+        "techno": "Techno"
+      }
+    },
+    "search": {
+      "title": "Search",
+      "description": "Find what you're looking for through search. Available in categories: artists, albums, songs.",
+      "button": "Go to Search"
+    },
+    "account": {
+      "title": "Account",
+      "description": "Create an account to save your favorite music.",
+      "button": "Sign up for free"
+    }
+  },
+  "loginForm": {
+    "form__title": "Login",
+    "placeholder": {
+      "email": "Email",
+      "password": "Password"
+    },
+    "buttonSubmit": "Login",
+    "remember-me": "Remember me",
+    "forgot-password": "Forgot Password?",
+    "register": {
+      "noRegister": "Not registered yet?",
+      "createAccount": "Create Account"
+    },
+    "Errors": {
+      "IncData": "Invalid data",
+      "IncPassOrEmail": "Incorrect email or password"
+    }
+  },
+  "RegisterForm": {
+    "form__title": "Sign Up",
+    "placeholder": {
+      "display_name": "Display Name",
+      "username": "Username",
+      "email": "Email",
+      "password": "Password",
+      "confirmPassword": "Confirm Password"
+    },
+    "login": {
+      "haveAcc": "Already have an account?",
+      "signIn": "Sign In"
+    },
+    "accept": {
+      "IAccept": "I accept",
+      "terms": "Terms of Use",
+      "and": "and",
+      "privacy_policy": "Privacy Policy"
+    },
+    "buttonSubmit": "Sign Up",
+    "Errors": {
+      "display_name": {
+        "Required": "This field is required",
+        "MinLength": "Display Name must be at least 3 characters long"
+      },
+      "username": {
+        "Required": "This field is required",
+        "MinLength": "Username must be at least 3 characters long",
+        "MaxLength": "Username must be no more than 15 characters long",
+        "Regex": "Username must contain only Latin letters and digits (a-z, A-Z, 0-9)",
+        "uniqueUsername": "This username is already taken"
+      },
+      "email": {
+        "Required": "This field is required",
+        "MinLength": "Email must be at least 3 characters long",
+        "Regex": "Invalid email format",
+        "uniqueUsername": "This Email is already in use"
+      },
+      "password": {
+        "requirements": "Password must contain at least:",
+        "MinLength": "8 characters",
+        "Uppercase": "one uppercase letter",
+        "Lowercase": "one lowercase letter",
+        "Digit": "one digit",
+        "SpecialSymbol": "one special character",
+        "IncorrectSymbol": "Incorrect character",
+        "Mismatch": "Passwords do not match",
+        "IncorrectPassword": "Incorrect password"
+      }
+    }
+  }
+}
